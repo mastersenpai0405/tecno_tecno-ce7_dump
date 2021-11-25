@@ -1,0 +1,12 @@
+on init
+    mkdir /dev/cgroup
+    mkdir /dev/cgroup/freezer
+    mount cgroup freezer /dev/cgroup/freezer freezer
+    chmod 0766 /dev/cgroup
+    chmod 0766 /dev/cgroup/freezer
+
+    #SPD: delete [PROCMANA-84][SystemTurbo][Freezer1.0] by li.hao for freezed run 20200813 start
+    #service freezed /system/bin/freezed
+    #    class main
+    #    user root
+    #SPD: delete [PROCMANA-84][SystemTurbo][Freezer1.0] by li.hao for freezed run 20200813 end

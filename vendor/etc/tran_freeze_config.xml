@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="whitelist" brand="default" version="1.0">
+  <freeze>
+    <package name="com.transsion.phonemaster" canfreeze="0" />
+    <package name="com.transsion.phoenix" canfreeze="0" />
+    <package name="com.transsion.alarmmanager" canfreeze="0" />
+    <package name="com.oraimo.appjoywear" canfreeze="0" />
+    <package name="com.domobile.applock" canfreeze="0" />
+    <package name="com.fooview.android.fooview.transsion" canfreeze="0" />
+    <package name="com.transsion.testcaserepository" canfreeze="0" />
+    <package name="com.transsion.agingfunction" canfreeze="0" />
+    <package name="com.transsion.emmctest" canfreeze="0" />
+    <package name="jp.co.cyberagent.stf" canfreeze="0" />
+    <package name="com.afwsamples.testdpc" canfreeze="0" />
+    <package name="com.transsion.demomode" canfreeze="0" />
+    <package name="com.transsion.tsdsmartcomm" canfreeze="0" />
+    <package name="com.example.jintest" canfreeze="0" />
+    <package name="com.android.showae" canfreeze="0" />
+    <package name="com.transsion.plat.appupdate" canfreeze="0" />
+    <package name="com.transsion.plat.policycenter" canfreeze="0" />
+    <package name="com.hanvon.xpen" canfreeze="0" />
+    <package name="com.android.facelock" canfreeze="0" />
+    <package name="com.whatsapp" canfreeze="0" />
+    <package name="com.google.android.gms" canfreeze="0" />
+    <package name="com.google.android.gm" canfreeze="0" />
+    <package name="com.facebook.katana" canfreeze="0" />
+    <package name="com.facebook.orca" canfreeze="0" />
+    <package name="com.facebook.lite" canfreeze="0" />
+    <package name="com.facebook.mlite" canfreeze="0" />
+    <package name="com.example.mtk10263.whatsTemp" canfreeze="0" />
+    <package name="com.android.vending" canfreeze="0"/>
+  </freeze>
+  <behavior>
+    <package name="com.google.android.gms" broadcast="2" jobservice="2" alarm="2" service="2" network="2" />
+    <package name="com.google.android.apps.messaging" broadcast="2" jobservice="2" alarm="2" service="0" network="0" />
+    <package name="com.google.android.gm" broadcast="2" jobservice="2" alarm="2" service="0" network="2" />
+    <package name="com.google.android.googlequicksearchbox" broadcast="2" jobservice="2" alarm="2" service="0" network="2" />
+    <package name="com.android.chrome" broadcast="2" jobservice="2" alarm="2" service="1" network="2" />
+    <package name="com.bbm" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.tencent.mm" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.tencent.mobileqq" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.tencent.mobileqqi" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.qq.wpc" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.whatsapp" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.whatsapp.w4b" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.truecaller" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.viber.voip" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.skype.raider" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.twitter.android" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.instagram.android" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="mobile.lab.PhoneCallDetect" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.afmobigroup.gphone" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="org.telegram.messenger" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="com.yx" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+    <package name="im.yixin" broadcast="2" jobservice="2" alarm="2" service="2" network="0" />
+  </behavior>
+</configuration>
