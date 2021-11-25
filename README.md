@@ -1,0 +1,14 @@
+# sys_tssi_64_tecno-user 10 QP1A.190711.020 55110 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: TECNO-CE7
+- flavor: sys_tssi_64_tecno-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 201201V431
+- tags: release-keys
+- fingerprint: TECNO/CE7-GL/TECNO-CE7:10/QP1A.190711.020/201201V390:user/release-keys
+- is_ab: false
+- brand: TECNO
+- branch: sys_tssi_64_tecno-user-10-QP1A.190711.020-55110-release-keys
+- repo: tecno_tecno-ce7_dump

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="appturbo" brand="default" version="1.1">
+  <tpturbo>
+    <package name="com.facebook.katana"   touchslop="8" smooth="1"/>
+    <package name="com.instagram.android"  touchslop="16" smooth="1" />
+    <package name="com.google.android.youtube"  touchslop="4" smooth="1" />
+    <package name="com.zhiliaoapp.musically"  touchslop="8" smooth="1" />
+    <package name="com.opera.mini.native"  touchslop="16" smooth="1" />
+    <package name="com.opera.browser"  touchslop="8" smooth="1" />
+    <package name="com.opera.app.news"  touchslop="8" smooth="1" />
+    <package name="video.like"  touchslop="8" smooth="1" />
+  </tpturbo>
+</configuration>
